@@ -118,44 +118,11 @@ This is just a weekend project I built a while back, so it won't be updated ofte
 <br />
 
 
-Some other sites I've built
----------------------------
 
-- **[GMZCODES](https://gmzcodes.com/)**
-
-  👨‍💻 Dani Gamez's personal website PWA built using JavaScript, SCSS and HTML5.
-  
-- **[Stylophone.js](https://danziger.github.io/stylophonejs/)**
-
-  🎹 The classic Stylophone, now in your phone and computer.
-
-- **[Key.js](https://keyjs.dev)**
-
-  ⌨ Press any key to get the JavaScript keyboard event event key, code, which, keyCode and more properties!
-
-- **[Stars.js](https://danziger.github.io/starsjs/)**
-
-  ✨ Generate a rotating galaxy in a canvas.
-  
-- **[Job.js](https://danziger.github.io/jobjs/)**
-
-  💼 Sharable image summaries for your open positions: Share your jobs as an image on LinkedIn and Instagram to get a visibility boost and more applicants!
 
 <br />
 
 
-Author
-------
 
-<img
-    src="https://s.gravatar.com/avatar/ff1de7f1a325c8005379a310949f7f23?s=128"
-    alt="Dani Gámez Franco"
-    align="left"
 />
-
-Dani Gámez Franco
-
-LinkedIn: https://www.linkedin.com/in/danigamezfranco/
-
-Stack Overflow: https://stackoverflow.com/users/3723993/danziger
 
